@@ -97,4 +97,4 @@ Error [Line 3]: Missing closing delimiter for '{'
 ## Author
 
 - **P. Nithyanand**
-- GitHub: [@NithyanandPuralasetti][(https://github.com/NithyanandPuralasetti)]
+- GitHub: [@NithyanandPuralasetti](https://github.com/NithyanandPuralasetti)
